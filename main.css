@@ -1,0 +1,25 @@
+body {
+	font-family: "OpenSans", sans-serif;
+}
+li {
+    list-style-type: none;
+}
+.side-nav{
+    position: fixed;
+    top:0px;
+    left:0px;
+}
+.page-footer{
+    position: fixed;
+    bottom:0px;
+    left:0px;
+}
+.content-section{
+    margin-left: 20%;
+    min-height: 100vh;
+}
+.band-members-item{
+    float: left;
+    width: 20%;
+    padding: 5px;
+}
